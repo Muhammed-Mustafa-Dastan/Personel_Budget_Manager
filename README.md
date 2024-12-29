@@ -45,6 +45,10 @@ The Budget Tracking page aims to establish financial stability by promoting regu
 ## 3. Budget Dashboard Page 📊📈🖥️
 ![image](https://github.com/user-attachments/assets/d9421adf-6709-4aae-87a4-fbb8da6e4802)
 
+![budget_dashboard_video](https://github.com/user-attachments/assets/a1285fbf-9f54-4bf7-b6b1-3f44b88ccdfb)
+
+
+
 The Budget Dashboard page visualizes the budgeting process through graphs and tables. This page allows users to quickly assess their financial performance. Visual analysis reveals how effective budgeting has been. 📊📈📅
 
 ### Key Features of the Page:
