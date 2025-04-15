@@ -1,10 +1,6 @@
-# Personal Budget Manager 📊💼📈
+> NOTE: This project is not originally mine. It was created by the incredibly talented YouTube channel [The Office Lab](https://www.youtube.com/@theofficelab) , which published a nearly 6-hour tutorial that I followed to build this tracker. I highly recommend their content to anyone interested in Excel dashboards, finance, and productivity. Their tutorials are insightful, detailed, and incredibly well-structured – this project is a testament to that. Huge thanks to [The Office Lab](https://www.youtube.com/@theofficelab) for making this learning experience possible.
 
-First of all, I would like to thank The Office Lab YouTube channel for bringing this project to millions along with me. It is a wonderful channel that shares amazing projects. You should definitely go and check it out. https://youtube.com/@theofficelab?si=4BoAnkfGGEx5vo8x  
-I did not design this project myself, but after a YouTube video project that took hours, I wanted to share it here.
-  
-------
-  
+# Personal Budget Manager 📊💼📈
   
 Personal Budget Manager is an Excel-based budget tracking system designed to simplify personal financial management for individuals. This tool helps users monitor their income, expenses, and savings, fostering financial awareness. It is a practical solution for those seeking to improve their budgeting skills. The project facilitates the achievement of financial goals by enabling better control over expenses and boosting savings. 💵📅📊
   
